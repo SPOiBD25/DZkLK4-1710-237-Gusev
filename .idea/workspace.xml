@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce157f38-7d21-40d4-8111-3e6bb2dd48d8" name="Changes" comment="первое создание простой кнопки">
-      <change afterPath="$PROJECT_DIR$/firstbutton.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI.py" afterDir="false" />
+    <list default="true" id="ce157f38-7d21-40d4-8111-3e6bb2dd48d8" name="Changes" comment="оформление">
+      <change afterPath="$PROJECT_DIR$/emptywindow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image for dz4bd/prof_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image for dz4bd/skyblue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image for dz4bd/world.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +50,13 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.GUI.executor": "Run",
+    "Python.firstbutton.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/nikitagusev/PycharmProjects/DZkLK4-1710-237-Gusev"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -93,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760800230862</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="оформление">
+      <option name="closed" value="true" />
+      <created>1760801469963</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760801469963</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +124,7 @@
     <MESSAGE value="test" />
     <MESSAGE value="test 2" />
     <MESSAGE value="первое создание простой кнопки" />
-    <option name="LAST_COMMIT_MESSAGE" value="первое создание простой кнопки" />
+    <MESSAGE value="оформление" />
+    <option name="LAST_COMMIT_MESSAGE" value="оформление" />
   </component>
 </project>
