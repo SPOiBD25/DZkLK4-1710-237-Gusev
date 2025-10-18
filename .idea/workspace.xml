@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce157f38-7d21-40d4-8111-3e6bb2dd48d8" name="Changes" comment="глава 1">
-      <change afterPath="$PROJECT_DIR$/helloQLabel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/profile_image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/world.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image for dz4bd/prof_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/prof_image.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image for dz4bd/skyblue.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/skyblue.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image for dz4bd/world.png" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/p.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prof_image.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,20 +49,23 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.GUI.executor": "Run",
     "Python.firstbutton.executor": "Run",
+    "Python.sdfs.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/nikitagusev/PycharmProjects/DZkLK4-1710-237-Gusev/image for dz4bd"
+    "last_opened_file_path": "/Users/nikitagusev/PycharmProjects/DZkLK4-1710-237-Gusev/images"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/image for dz4bd" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/image for dz4bd" />
     </key>
   </component>
@@ -124,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760803773891</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="глава 1">
+      <option name="closed" value="true" />
+      <created>1760805370872</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1760805370872</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
